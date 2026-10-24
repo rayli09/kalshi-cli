@@ -1,0 +1,7 @@
+kalshi-cli
+
+The endpoint surface, authentication scheme, and WebSocket protocol
+implemented here follow the official Kalshi API documentation
+(https://docs.kalshi.com) and the OpenAPI-derived endpoint list published
+with the official kalshi-python SDK. Not affiliated with or endorsed by
+Kalshi Inc. or KalshiEX LLC.
